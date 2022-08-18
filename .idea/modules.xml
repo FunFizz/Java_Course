@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_Course.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Week 1/Monday Practice/Java_Course.Week_1-Monday_Practice.iml" filepath="$PROJECT_DIR$/.idea/modules/Week 1/Monday Practice/Java_Course.Week_1-Monday_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Week 1/Monday Practice/Java_Course.Week_1-Monday_Practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Week 1/Monday Practice/Java_Course.Week_1-Monday_Practice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Week 1/Monday Practice/Java_Course.Week_1-Monday_Practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Week 1/Monday Practice/Java_Course.Week_1-Monday_Practice.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Course.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Course.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Course.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Course.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Course.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Course.util.test.iml" />
+    </modules>
+  </component>
+</project>

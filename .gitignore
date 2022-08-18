@@ -1,0 +1,6 @@
+# Project exclude paths
+/.coursecreator/
+/.gradle/
+/Week 1/Monday Practice/build/
+/Week 1/Monday Practice/out/
+/Week 1/Monday Practice/out/production/classes/

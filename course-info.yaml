@@ -1,0 +1,13 @@
+type: marketplace
+title: Java Course
+language: English
+summary: |
+  This is an introductory Java course for Queen's University Belfast.
+  - The course will be most beneficial for beginner-level Java learners.
+  - The course covers core Java features.
+  - It contains hands-on examples of Java code implementation and exercises to practice new skills.
+vendor:
+  name: 3057023
+programming_language: Java
+content:
+- Week 1

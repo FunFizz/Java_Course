@@ -1,0 +1,10 @@
+type: output
+files:
+- name: test/output.txt
+  visible: false
+- name: src/HelloWorldPrint.java
+  visible: true
+  placeholders:
+  - offset: 82
+    length: 32
+    placeholder_text: /* TODO */
